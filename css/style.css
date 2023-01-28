@@ -1,0 +1,119 @@
+body{
+  font-family: 'Plus Jakarta Sans';
+}
+
+/* **************************** HEADER **************************** */
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.header_nav {
+  display: flex;
+  border-bottom: 1px solid black;
+}
+
+.header_nav-link{
+  text-decoration: none;
+  color: rgb(6, 5, 5);
+}
+
+h1{
+  padding: 0 40px 0;
+}
+
+/* **************************** SECTION **************************** */
+
+.section_imgs.love_red{
+  color: red;
+}
+
+.love_red{
+  color: red;
+}
+
+.amst_img{
+  width: 70%;
+  border-radius: 20px;
+}
+
+/* **************************** SECTION 2 **************************** */
+
+.section2{
+  padding-top: 100px;
+}
+
+.section2_titles{
+  display: flex;
+  justify-content: center;
+}
+
+.amst_orange{
+  color: orange;
+}
+
+.section2_img {
+  display: flex;
+}
+.night1 {
+  width: 31%;
+  padding-right: 3px;
+}
+.night2 {
+  width: 36%;
+}
+.night3 {
+  width: 30%;
+  padding-left: 3px;
+}
+
+
+/* **************************** BLOG PAGE **************************** */
+
+.section_inn{
+  padding-top: 5%;
+}
+
+.section_title {
+  display: flex;
+  justify-content: center;
+}
+.section_imgs {
+  display: flex;
+  justify-content: center;
+}
+
+.section2_china{
+  padding-left: 10%;
+  padding-top: 10%;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.section2_text{
+  width: 35%;
+  align-items: center;
+}
+
+.china-h{
+  padding-left: 5%;
+  width: 80%;
+}
+
+
+/* **************************** FORUM PAGE **************************** */
+
+.table_title{
+  padding-left: 4%;
+  padding-top: 3%;
+  color: green
+}
+
+.table_saving{
+  padding-left: 5%;
+}
+
+table, th, td {
+  background-color: rgb(168, 201, 173);
+  border: 1px solid black;
