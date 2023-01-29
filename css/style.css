@@ -22,7 +22,7 @@ h1{
   padding: 0 40px 0;
 }
 
-/* **************************** SECTION **************************** */
+/* **************************** HOME PAGE SECTION **************************** */
 
 .section_imgs.love_red{
   color: red;
@@ -37,10 +37,11 @@ h1{
   border-radius: 20px;
 }
 
-/* **************************** SECTION 2 **************************** */
+/* **************************** HOME PAGE SECTION 2 **************************** */
 
 .section2{
-  padding-top: 100px;
+  max-width: 1440px;
+  padding: 100px 40px 0 70px;
 }
 
 .section2_titles{
@@ -117,3 +118,16 @@ h1{
 table, th, td {
   background-color: rgb(168, 201, 173);
   border: 1px solid black;
+}
+
+
+/* **************************** CONTACT PAGE **************************** */
+
+.contact_info{
+  padding: 100px 80px;
+  display: flex;
+}
+
+.contact_info-text{
+  padding: 20px;
+}
