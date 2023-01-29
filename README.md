@@ -10,4 +10,4 @@ four page
 4.contact
 
 about amsterdam,
-about chine
+about china
