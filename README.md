@@ -1,6 +1,6 @@
 # comm-2-work
 
-site is live at https://iraklidt.github.io/comm-2-work/
+
 
 four page
 
